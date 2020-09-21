@@ -1,0 +1,19 @@
+{
+  "name": "world",
+  "version": "1.0.0",
+  "description": "App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanKhorram/node-world.git"
+  },
+  "author": "Aryan Khorram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AryanKhorram/node-world/issues"
+  },
+  "homepage": "https://github.com/AryanKhorram/node-world#readme"
+}
